@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20250706001504" generator-info-name="SAMFLIX LIVE EVENT EPG">
+  <channel id="TNT_USA">
+    <display-name>TNT_USA</display-name>
+  </channel>
+  <channel id="TNT_Sports_1">
+    <display-name>TNT_Sports_1</display-name>
+  </channel>
+  <channel id="TNT_Sports_2">
+    <display-name>TNT_Sports_2</display-name>
+  </channel>
+  <channel id="TNT_Sports_3">
+    <display-name>TNT_Sports_3</display-name>
+  </channel>
+  <channel id="TNT_Sports_4">
+    <display-name>TNT_Sports_4</display-name>
+  </channel>
+  <channel id="Sky_Sports_Mix_Live_TV">
+    <display-name>Sky_Sports_Mix_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_F1_Live_TV">
+    <display-name>Sky_Sports_F1_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Racing_Live_TV">
+    <display-name>Sky_Sports_Racing_Live_TV</display-name>
+  </channel>
+  <channel id="BBC_1">
+    <display-name>BBC_1</display-name>
+  </channel>
+  <channel id="Channel_05">
+    <display-name>Channel_05</display-name>
+  </channel>
+  <channel id="ITV_1">
+    <display-name>ITV_1</display-name>
+  </channel>
+  <channel id="ITV_4">
+    <display-name>ITV_4</display-name>
+  </channel>
+  <channel id="Fox_Sports_1_Live_TV">
+    <display-name>Fox_Sports_1_Live_TV</display-name>
+  </channel>
+  <programme start="20250705180000 +0800" stop="20250706000000 +0800" channel="BBC_1">
+    <title lang="en">Wimbledon: Wimbledon</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705184500 +0800" stop="20250705234500 +0800" channel="ITV_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 1 - Tour de France</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 1 - Tour de France.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705200000 +0800" stop="20250706000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705203000 +0800" stop="20250706003000 +0800" channel="ITV_1">
+    <title lang="en">UK Race Meeting: Live Racing</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Live Racing.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705224500 +0800" stop="20250706010000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">F1 Racing: British Grand Prix Qualifying 3 - Silverstone Circuit</title>
+    <icon src="https://static.quickgrow.net/public/images/jDZ4rWGdLArjRUu5UmsbAMvi1HecD7jjyIoEu3H7.webp"/>
+    <desc lang="en">F1 Racing: British Grand Prix Qualifying 3 - Silverstone Circuit.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705233000 +0800" stop="20250706020000 +0800" channel="Sky_Sports_Mix_Live_TV">
+    <title lang="en">BRITISH RACING: British F4 Silverstone Race 1</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British F4 Silverstone Race 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706000000 +0800" stop="20250706021000 +0800" channel="BBC_1">
+    <title lang="en">UEFA Championship - Women: Wales W vs Netherlands W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">Wales W vs Netherlands W in UEFA Championship - Women.
+ Round: Group Stage - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706000000 +0800" stop="20250706021000 +0800" channel="TNT_USA">
+    <title lang="en">FIFA Club World Cup: Paris Saint Germain vs Bayern Munich</title>
+    <icon src="https://static.quickgrow.net//football/leagues/15.png"/>
+    <desc lang="en">Paris Saint Germain vs Bayern Munich in FIFA Club World Cup.
+ Round: Quarter-finals.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706030000 +0800" stop="20250706051000 +0800" channel="ITV_1">
+    <title lang="en">UEFA Championship - Women: France W vs England W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">France W vs England W in UEFA Championship - Women.
+ Round: Group Stage - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <channel id="TNT_USA">
+    <display-name>TNT_USA</display-name>
+  </channel>
+  <channel id="TNT_Sports_1">
+    <display-name>TNT_Sports_1</display-name>
+  </channel>
+  <channel id="TNT_Sports_2">
+    <display-name>TNT_Sports_2</display-name>
+  </channel>
+  <channel id="TNT_Sports_3">
+    <display-name>TNT_Sports_3</display-name>
+  </channel>
+  <channel id="TNT_Sports_4">
+    <display-name>TNT_Sports_4</display-name>
+  </channel>
+  <channel id="Sky_Sports_Mix_Live_TV">
+    <display-name>Sky_Sports_Mix_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_F1_Live_TV">
+    <display-name>Sky_Sports_F1_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Racing_Live_TV">
+    <display-name>Sky_Sports_Racing_Live_TV</display-name>
+  </channel>
+  <channel id="BBC_1">
+    <display-name>BBC_1</display-name>
+  </channel>
+  <channel id="Channel_05">
+    <display-name>Channel_05</display-name>
+  </channel>
+  <channel id="ITV_1">
+    <display-name>ITV_1</display-name>
+  </channel>
+  <channel id="ITV_4">
+    <display-name>ITV_4</display-name>
+  </channel>
+  <channel id="Fox_Sports_1_Live_TV">
+    <display-name>Fox_Sports_1_Live_TV</display-name>
+  </channel>
+  <programme start="20250705180000 +0800" stop="20250706000000 +0800" channel="BBC_1">
+    <title lang="en">Wimbledon: Wimbledon</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705184500 +0800" stop="20250705234500 +0800" channel="ITV_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 1 - Tour de France</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 1 - Tour de France.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705200000 +0800" stop="20250706000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705203000 +0800" stop="20250706003000 +0800" channel="ITV_1">
+    <title lang="en">UK Race Meeting: Live Racing</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Live Racing.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705224500 +0800" stop="20250706010000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">F1 Racing: British Grand Prix Qualifying 3 - Silverstone Circuit</title>
+    <icon src="https://static.quickgrow.net/public/images/jDZ4rWGdLArjRUu5UmsbAMvi1HecD7jjyIoEu3H7.webp"/>
+    <desc lang="en">F1 Racing: British Grand Prix Qualifying 3 - Silverstone Circuit.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250705233000 +0800" stop="20250706020000 +0800" channel="Sky_Sports_Mix_Live_TV">
+    <title lang="en">BRITISH RACING: British F4 Silverstone Race 1</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British F4 Silverstone Race 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706000000 +0800" stop="20250706021000 +0800" channel="BBC_1">
+    <title lang="en">UEFA Championship - Women: Wales W vs Netherlands W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">Wales W vs Netherlands W in UEFA Championship - Women.
+ Round: Group Stage - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706000000 +0800" stop="20250706021000 +0800" channel="TNT_USA">
+    <title lang="en">FIFA Club World Cup: Paris Saint Germain vs Bayern Munich</title>
+    <icon src="https://static.quickgrow.net//football/leagues/15.png"/>
+    <desc lang="en">Paris Saint Germain vs Bayern Munich in FIFA Club World Cup.
+ Round: Quarter-finals.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706030000 +0800" stop="20250706051000 +0800" channel="ITV_1">
+    <title lang="en">UEFA Championship - Women: France W vs England W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">France W vs England W in UEFA Championship - Women.
+ Round: Group Stage - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706040000 +0800" stop="20250706061000 +0800" channel="Channel_05">
+    <title lang="en">FIFA Club World Cup: Real Madrid vs Borussia Dortmund</title>
+    <icon src="https://static.quickgrow.net//football/leagues/15.png"/>
+    <desc lang="en">Real Madrid vs Borussia Dortmund in FIFA Club World Cup.
+ Round: Quarter-finals.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706070000 +0800" stop="20250706091000 +0800" channel="Fox_Sports_1_Live_TV">
+    <title lang="en">Major League Soccer: Charlotte vs Orlando City SC</title>
+    <icon src="https://static.quickgrow.net//football/leagues/253.png"/>
+    <desc lang="en">Charlotte vs Orlando City SC in Major League Soccer.
+ Round: Regular Season - 31.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706152000 +0800" stop="20250706163000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">BRITISH RACING: British F4 Silverstone Race 2</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British F4 Silverstone Race 2.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706163000 +0800" stop="20250706184000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">Formula 3: Formula 3 Series Silverstone</title>
+    <icon src="https://static.quickgrow.net/public/images/GtrCyTN3L7m7sQRyzpIelkxLTSE2WR1K9eqkQ7rv.webp"/>
+    <desc lang="en">Formula 3: Formula 3 Series Silverstone.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706180000 +0800" stop="20250707000000 +0800" channel="BBC_1">
+    <title lang="en">Wimbledon: Wimbledon</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706180000 +0800" stop="20250706230000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 2 - Tour de France</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 2 - Tour de France.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706183000 +0800" stop="20250706233000 +0800" channel="TNT_Sports_3">
+    <title lang="en">UCI World Tour: UCI Mountain Bike World Series</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Mountain Bike World Series.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706183000 +0800" stop="20250706204000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">Formula 2: Formula 2 Series Silverstone</title>
+    <icon src="https://static.quickgrow.net/public/images/tEPZUU9nJf5vWlwVb8R1NsZn9aJwO1ie8HdiyoFg.png"/>
+    <desc lang="en">Formula 2: Formula 2 Series Silverstone.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706184500 +0800" stop="20250706234500 +0800" channel="TNT_Sports_2">
+    <title lang="en">UCI World Tour: UCI Giro dItalia Stage 1 - Giro d'Italia Women</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Giro dItalia Stage 1 - Giro d'Italia Women.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706200000 +0800" stop="20250707000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706200000 +0800" stop="20250706230000 +0800" channel="TNT_Sports_4">
+    <title lang="en">BRITISH RACING: British Superbikes Knockhill</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British Superbikes Knockhill.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250706220000 +0800" stop="20250707020000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">F1 Racing: British Grand Prix Race - Silverstone Circuit</title>
+    <icon src="https://static.quickgrow.net/public/images/jDZ4rWGdLArjRUu5UmsbAMvi1HecD7jjyIoEu3H7.webp"/>
+    <desc lang="en">F1 Racing: British Grand Prix Race - Silverstone Circuit.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250707180000 +0800" stop="20250708000000 +0800" channel="BBC_1">
+    <title lang="en">Wimbledon: Wimbledon</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250707184500 +0800" stop="20250707234500 +0800" channel="TNT_Sports_2">
+    <title lang="en">UCI World Tour: UCI Giro dItalia Stage 2 - Giro d'Italia Women</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Giro dItalia Stage 2 - Giro d'Italia Women.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250707190000 +0800" stop="20250707210000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 3 - Valenciennes to Dunkirk</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 3 - Valenciennes to Dunkirk.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250707200000 +0800" stop="20250708000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250707210000 +0800" stop="20250708000000 +0800" channel="ITV_4">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 3 - Tour de France</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 3 - Tour de France.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250708184500 +0800" stop="20250708234500 +0800" channel="TNT_Sports_2">
+    <title lang="en">UCI World Tour: UCI Giro dItalia Stage 3 - Giro d'Italia Women</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Giro dItalia Stage 3 - Giro d'Italia Women.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250708190000 +0800" stop="20250708210000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 4 - Amiens to Rouen</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 4 - Amiens to Rouen.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250708210000 +0800" stop="20250709000000 +0800" channel="ITV_4">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 4 - Tour de France</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 4 - Tour de France.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+</tv>
