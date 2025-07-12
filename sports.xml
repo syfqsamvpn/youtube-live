@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20250713001504" generator-info-name="SAMFLIX LIVE EVENT EPG">
+  <channel id="Sky_Sports_Cricket_Live_TV">
+    <display-name>Sky_Sports_Cricket_Live_TV</display-name>
+  </channel>
+  <channel id="TNT_Sports_1">
+    <display-name>TNT_Sports_1</display-name>
+  </channel>
+  <channel id="TNT_Sports_2">
+    <display-name>TNT_Sports_2</display-name>
+  </channel>
+  <channel id="TNT_Sports_3">
+    <display-name>TNT_Sports_3</display-name>
+  </channel>
+  <channel id="TNT_Sports_4">
+    <display-name>TNT_Sports_4</display-name>
+  </channel>
+  <channel id="Sky_Sports_F1_Live_TV">
+    <display-name>Sky_Sports_F1_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Racing_Live_TV">
+    <display-name>Sky_Sports_Racing_Live_TV</display-name>
+  </channel>
+  <channel id="BBC_1">
+    <display-name>BBC_1</display-name>
+  </channel>
+  <channel id="BBC_2">
+    <display-name>BBC_2</display-name>
+  </channel>
+  <channel id="Channel_05">
+    <display-name>Channel_05</display-name>
+  </channel>
+  <channel id="ITV_1">
+    <display-name>ITV_1</display-name>
+  </channel>
+  <channel id="ITV_4">
+    <display-name>ITV_4</display-name>
+  </channel>
+  <channel id="Fox_Sports_1_Live_TV">
+    <display-name>Fox_Sports_1_Live_TV</display-name>
+  </channel>
+  <channel id="MLS_Live_4">
+    <display-name>MLS_Live_4</display-name>
+  </channel>
+  <channel id="MLS_Live_1">
+    <display-name>MLS_Live_1</display-name>
+  </channel>
+  <programme start="20250712173000 +0800" stop="20250713003000 +0800" channel="TNT_Sports_3">
+    <title lang="en">World Superbike: World SBK UK Round Superbike Superpole - Donington Park</title>
+    <icon src="https://static.quickgrow.net/public/images/paaZZUoGUHMnbTXB6zG4IxsrmlXLGMPnnp2jYKsX.png"/>
+    <desc lang="en">World Superbike: World SBK UK Round Superbike Superpole - Donington Park.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712180000 +0800" stop="20250713000000 +0800" channel="BBC_2">
+    <title lang="en">Wimbledon: Wimbledon Gentlemen's Doubles Final</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon Gentlemen's Doubles Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712200000 +0800" stop="20250712233000 +0800" channel="TNT_Sports_4">
+    <title lang="en">UCI World Tour: UCI Mountain Bike World Series DHI Elite Men's Final - Pal Arinsal, Andorra</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Mountain Bike World Series DHI Elite Men's Final - Pal Arinsal, Andorra.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712203000 +0800" stop="20250712233000 +0800" channel="ITV_1">
+    <title lang="en">UK Race Meeting: Live racing from Newmarket, York and Ascot</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Live racing from Newmarket, York and Ascot.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712210000 +0800" stop="20250713000000 +0800" channel="ITV_4">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 8 - Saint-Méen-le-Grand to Laval</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 8 - Saint-Méen-le-Grand to Laval.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712223000 +0800" stop="20250713013000 +0800" channel="TNT_Sports_2">
+    <title lang="en">Wimbledon: Wimbledon Ladies’ Singles Final</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon Ladies’ Singles Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250712224000 +0800" stop="20250713000000 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">BRITISH RACING: British GT Championship Snetterton Qualifying</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British GT Championship Snetterton Qualifying.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713025000 +0800" stop="20250713063500 +0800" channel="Sky_Sports_Cricket_Live_TV">
+    <title lang="en">Women's T20: England W vs India W</title>
+    <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png"/>
+    <desc lang="en">England vs India in Women's T20.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713030000 +0800" stop="20250713051000 +0800" channel="ITV_4">
+    <title lang="en">UEFA Championship - Women: Poland W vs Denmark W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">Poland W vs Denmark W in UEFA Championship - Women.
+ Round: Group Stage - 3.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713030000 +0800" stop="20250713051000 +0800" channel="ITV_1">
+    <title lang="en">UEFA Championship - Women: Sweden W vs Germany W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">Sweden W vs Germany W in UEFA Championship - Women.
+ Round: Group Stage - 3.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713073000 +0800" stop="20250713094000 +0800" channel="MLS_Live_4">
+    <title lang="en">Major League Soccer: Orlando City SC vs Montreal Impact</title>
+    <icon src="https://static.quickgrow.net//football/leagues/253.png"/>
+    <desc lang="en">Orlando City SC vs Montreal Impact in Major League Soccer.
+ Round: Regular Season - 32.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713073000 +0800" stop="20250713094000 +0800" channel="MLS_Live_1">
+    <title lang="en">Major League Soccer: Toronto FC vs Atlanta United FC</title>
+    <icon src="https://static.quickgrow.net//football/leagues/253.png"/>
+    <desc lang="en">Toronto FC vs Atlanta United FC in Major League Soccer.
+ Round: Regular Season - 32.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713073000 +0800" stop="20250713094000 +0800" channel="MLS_Live_4">
+    <title lang="en">Major League Soccer: FC Cincinnati vs Columbus Crew</title>
+    <icon src="https://static.quickgrow.net//football/leagues/253.png"/>
+    <desc lang="en">FC Cincinnati vs Columbus Crew in Major League Soccer.
+ Round: Regular Season - 32.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713073000 +0800" stop="20250713094000 +0800" channel="Fox_Sports_1_Live_TV">
+    <title lang="en">Major League Soccer: Inter Miami vs Nashville SC</title>
+    <icon src="https://static.quickgrow.net//football/leagues/253.png"/>
+    <desc lang="en">Inter Miami vs Nashville SC in Major League Soccer.
+ Round: Regular Season - 32.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713130000 +0800" stop="20250713160000 +0800" channel="TNT_Sports_2">
+    <title lang="en">V8 Supercars Championship: V8 Supercars Townsville 400 Race 22 - The NTI Townsville 500</title>
+    <icon src="https://static.quickgrow.net/public/images/4TMS4wflmVc0LEOlv64kBXbir8S9jAdRlel0dKQZ.png"/>
+    <desc lang="en">V8 Supercars Championship: V8 Supercars Townsville 400 Race 22 - The NTI Townsville 500.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713170000 +0800" stop="20250713191000 +0800" channel="TNT_Sports_4">
+    <title lang="en">UCI World Tour: UCI Mountain Bike World Series XCO Olympic Elite Women's Final</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Mountain Bike World Series XCO Olympic Elite Women's Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713173000 +0800" stop="20250713190000 +0800" channel="TNT_Sports_3">
+    <title lang="en">World Superbike: World SBK UK Round Superbike Superpole Race - Donington Park</title>
+    <icon src="https://static.quickgrow.net/public/images/paaZZUoGUHMnbTXB6zG4IxsrmlXLGMPnnp2jYKsX.png"/>
+    <desc lang="en">World Superbike: World SBK UK Round Superbike Superpole Race - Donington Park.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713173000 +0800" stop="20250714004500 +0800" channel="Sky_Sports_F1_Live_TV">
+    <title lang="en">BRITISH RACING: British GT Championship Snetterton Race - Snetterton</title>
+    <icon src="https://static.quickgrow.net/public/images/2IImhBfZuBclvVMoWpofVRcmJB50DneeT5N2hVHy.jpg"/>
+    <desc lang="en">BRITISH RACING: British GT Championship Snetterton Race - Snetterton.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713190000 +0800" stop="20250714000000 +0800" channel="BBC_1">
+    <title lang="en">Wimbledon: Wimbledon Ladies' Doubles Final</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon Ladies' Doubles Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713190000 +0800" stop="20250713211000 +0800" channel="TNT_Sports_4">
+    <title lang="en">UCI World Tour: UCI Mountain Bike World Series XCO Olympic Elite Men's Final</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Mountain Bike World Series XCO Olympic Elite Men's Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713190000 +0800" stop="20250713200000 +0800" channel="TNT_Sports_3">
+    <title lang="en">World Superbike: World SBK UK Round Women's Circuit Racing World Championship - Donington Park</title>
+    <icon src="https://static.quickgrow.net/public/images/paaZZUoGUHMnbTXB6zG4IxsrmlXLGMPnnp2jYKsX.png"/>
+    <desc lang="en">World Superbike: World SBK UK Round Women's Circuit Racing World Championship - Donington Park.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713193000 +0800" stop="20250713214000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 9 - Chinon to Châteauroux</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 9 - Chinon to Châteauroux.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713200000 +0800" stop="20250713230000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713201500 +0800" stop="20250714010000 +0800" channel="TNT_Sports_3">
+    <title lang="en">World Superbike: World SBK UK Round Superbike Race 2 - Donington Park</title>
+    <icon src="https://static.quickgrow.net/public/images/paaZZUoGUHMnbTXB6zG4IxsrmlXLGMPnnp2jYKsX.png"/>
+    <desc lang="en">World Superbike: World SBK UK Round Superbike Race 2 - Donington Park.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713210000 +0800" stop="20250713231000 +0800" channel="ITV_4">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 9 - Chinon to Châteauroux</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 9 - Chinon to Châteauroux.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713220000 +0800" stop="20250714001000 +0800" channel="ITV_1">
+    <title lang="en">Friendlies Clubs: Preston vs Liverpool</title>
+    <icon src="https://static.quickgrow.net//football/leagues/667.png"/>
+    <desc lang="en">Preston vs Liverpool in Friendlies Clubs.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250713223000 +0800" stop="20250714013000 +0800" channel="TNT_Sports_2">
+    <title lang="en">Wimbledon: Wimbledon Gentlemen’s Singles Final</title>
+    <icon src="https://static.quickgrow.net//shared/imagenes/competitions/906/competition_logo_1684331217.jpeg"/>
+    <desc lang="en">Wimbledon: Wimbledon Gentlemen’s Singles Final.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250714030000 +0800" stop="20250714051000 +0800" channel="Channel_05">
+    <title lang="en">FIFA Club World Cup: Chelsea vs Paris Saint Germain</title>
+    <icon src="https://static.quickgrow.net//football/leagues/15.png"/>
+    <desc lang="en">Chelsea vs Paris Saint Germain in FIFA Club World Cup.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250714193000 +0800" stop="20250714214000 +0800" channel="ITV_4">
+    <title lang="en">UCI World Tour: UCI Tour de France Stage 10 - Ennezat to Mont-Dore</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: UCI Tour de France Stage 10 - Ennezat to Mont-Dore.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250714200000 +0800" stop="20250714230000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+</tv>
