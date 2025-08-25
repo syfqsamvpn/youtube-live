@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+	<channel id="sam.1"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="sam.1">
+		<title>Account Expired(Sila Renew Di SAMFLIX)</title>
+		<desc lang="en">Pastikan anda hanya renew bersama reseller samflix yang berdaftar, sebarang masalah boleh diadukan didalam group support samflix. Terima kasih kerana telah support kami.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+    <channel id="sam.2"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="sam.2">
+		<title>Account Banned(Sila Patuhi Peraturan)</title>
+		<desc lang="en">Malang sekali anda telah diban kerana multilogin/cubaan mencuri playlist. Sebarang kesalahan boleh diadukan didalam group support samflix.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="sam.3"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="sam.3">
+		<title>Terima Kasih Kerana Support Kami(by SAMFLIX)</title>
+		<desc lang="en">Terima kasih kerana support kami, Sebarang idea untuk penambahbaikan boleh terus chat di dalam group support SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="suriafm"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="suriafm">
+		<title>[LIVE] Takbir Raya Aidiladha SURIA 2024 | 1445H 🕌</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="hotfm"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="hotfm">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="awani"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="awani">
+		<title>[LANGSUNG] #AWANI745 | 21 Mei 2024</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="hitsradio"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="hitsradio">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="molekfm"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="molekfm">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="kool101"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="kool101">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="mlbbmy"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="mlbbmy">
+		<title>[BM] MPL MY Musim 13 PLAYOFFS Hari Kedua</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="mlbbid"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="mlbbid">
+		<title>[ID] 2024 MPL MENA Season 5 Playoff Hari 1 - Road to MSC 2024</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="pubgmy"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="pubgmy">
+		<title>[BM] 2024 PMSL SEA W3D1 | Summer | Minggu Terakhir untuk ke Finals!</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="pubgid"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="pubgid">
+		<title>[ID] 2024 PMSL SEA W3D1 | Summer | MINGGU TERAKHIR LIGA DIMULAI SEKARANG</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="windah"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="windah">
+		<title>KISAH MENGERIKAN ANAK YANG SUKA NGE PRANK DI SEKOLAH.... [Bober Bros] ItChannel Offline#39;s Just A Prank</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="pjmask"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="pjmask">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="museasia"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="museasia">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="solozclub"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="solozclub">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="ytsehat"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="ytsehat">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="nickelodeonid"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="nickelodeonid">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="azharidruz"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="azharidruz">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="beepbeep"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="beepbeep">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="booba"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="booba">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="didinfriend"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="didinfriend">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="musicastudios"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="musicastudios">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="PeppaPigAsia"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="PeppaPigAsia">
+		<title>Channel Offline</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+	<channel id="mplmy"/>
+	<programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="mplmy">
+		<title>[LIVE] Upin | Ipin Marathon</title>
+		<desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+		<category lang="en">Information</category>
+		<icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+	</programme>
+    <channel id="SuriaRecordsSRC"/>
+    <programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="SuriaRecordsSRC">
+        <title>Channel Offline</title>
+        <desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+        <category lang="en">Information</category>
+        <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+    </programme>
+    <channel id="LaguHariRaya"/>
+    <programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="LaguHariRaya">
+        <title>Channel Offline</title>
+        <desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+        <category lang="en">Information</category>
+        <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+    </programme>
+    <channel id="MuseMalaysia"/>
+    <programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="MuseMalaysia">
+        <title>Channel Offline</title>
+        <desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+        <category lang="en">Information</category>
+        <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+    </programme>
+    <channel id="ArRahmanIslamic"/>
+    <programme start="20250825180008 +0000" stop="20250826060008 +0000" channel="ArRahmanIslamic">
+        <title>Channel Offline</title>
+        <desc lang="en">Ini adalah livestream yang diambil daripada youtube. Credit to SAMFLIX.</desc>
+        <category lang="en">Information</category>
+        <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png" />
+    </programme>
+</tv>
