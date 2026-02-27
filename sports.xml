@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20250719001504" generator-info-name="SAMFLIX LIVE EVENT EPG">
+  <channel id="Sky_Sports_Cricket_Live_TV">
+    <display-name>Sky_Sports_Cricket_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Tennis">
+    <display-name>Sky_Sports_Tennis</display-name>
+  </channel>
+  <channel id="TNT_Sports_1">
+    <display-name>TNT_Sports_1</display-name>
+  </channel>
+  <channel id="TNT_Sports_2">
+    <display-name>TNT_Sports_2</display-name>
+  </channel>
+  <channel id="Fox_Sports_2_Live_TV">
+    <display-name>Fox_Sports_2_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Racing_Live_TV">
+    <display-name>Sky_Sports_Racing_Live_TV</display-name>
+  </channel>
+  <channel id="BBC_1">
+    <display-name>BBC_1</display-name>
+  </channel>
+  <channel id="ITV_1">
+    <display-name>ITV_1</display-name>
+  </channel>
+  <channel id="MUTV_Live_TV">
+    <display-name>MUTV_Live_TV</display-name>
+  </channel>
+  <channel id="FOX_DEPORTES">
+    <display-name>FOX_DEPORTES</display-name>
+  </channel>
+  <channel id="Sky_Sports_Golf_Live_TV">
+    <display-name>Sky_Sports_Golf_Live_TV</display-name>
+  </channel>
+  <channel id="Sky_Sports_Main_Event">
+    <display-name>Sky_Sports_Main_Event</display-name>
+  </channel>
+  <programme start="20250718191000 +0800" stop="20250719003000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: Tour de France Stage 13 - Loudenvielle to Peyragudes</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: Tour de France Stage 13 - Loudenvielle to Peyragudes.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250718204500 +0800" stop="20250719004500 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719000000 +0800" stop="20250719021000 +0800" channel="FOX_DEPORTES">
+    <title lang="en">Friendlies Clubs: Toulouse vs QPR</title>
+    <icon src="https://static.quickgrow.net//football/leagues/667.png"/>
+    <desc lang="en">Toulouse vs QPR in Friendlies Clubs.
+ Round: Club Friendlies 3.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719030000 +0800" stop="20250719051000 +0800" channel="BBC_1">
+    <title lang="en">UEFA Championship - Women: Spain W vs Switzerland W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/743.png"/>
+    <desc lang="en">Spain W vs Switzerland W in UEFA Championship - Women.
+ Round: Quarter-finals.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719050000 +0800" stop="20250719071000 +0800" channel="Fox_Sports_2_Live_TV">
+    <title lang="en">Copa America Femenina: Uruguay W vs Peru W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/926.png"/>
+    <desc lang="en">Uruguay W vs Peru W in Copa America Femenina.
+ Round: 1st Round - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719050000 +0800" stop="20250719071000 +0800" channel="Sky_Sports_Golf_Live_TV">
+    <title lang="en">US PGA Tour: Barracuda Championship - Old Greenwood</title>
+    <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png"/>
+    <desc lang="en">US PGA Tour: Barracuda Championship - Old Greenwood.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719080000 +0800" stop="20250719101000 +0800" channel="Fox_Sports_2_Live_TV">
+    <title lang="en">Copa America Femenina: Argentina W vs Chile W</title>
+    <icon src="https://static.quickgrow.net//football/leagues/926.png"/>
+    <desc lang="en">Argentina W vs Chile W in Copa America Femenina.
+ Round: 1st Round - 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719103000 +0800" stop="20250719140000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: Abierto Mexicano Los Cabos- Day 4</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: Abierto Mexicano Los Cabos- Day 4.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719144000 +0800" stop="20250719165000 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix Free Practice 2</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix Free Practice 2.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719160000 +0800" stop="20250719181000 +0800" channel="Sky_Sports_Golf_Live_TV">
+    <title lang="en">The Open Championship: The Open Championship - Dunluce Course</title>
+    <icon src="https://static.quickgrow.net/public/images/QJ6Y0mpFaKPyOIs95fNU8YQAAOmcYUrLQI09lSEE.avif"/>
+    <desc lang="en">The Open Championship: The Open Championship - Dunluce Course.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719165000 +0800" stop="20250719190000 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix Qualifying - Automotodrom Brno</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix Qualifying - Automotodrom Brno.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719170000 +0800" stop="20250719210000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: ATP Tour 250 Bastad</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: ATP Tour 250 Bastad.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719180000 +0800" stop="20250719201000 +0800" channel="Sky_Sports_Cricket_Live_TV">
+    <title lang="en">One Day International: England Womens vs India Women</title>
+    <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png"/>
+    <desc lang="en">England W vs India in One Day International.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719181500 +0800" stop="20250720003000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: Tour de France Stage 14 - Pau to Luchon-Superbagnères</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: Tour de France Stage 14 - Pau to Luchon-Superbagnères.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719200000 +0800" stop="20250720000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">ATP TOUR: Raceday Live</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: Raceday Live.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719203000 +0800" stop="20250720003000 +0800" channel="ITV_1">
+    <title lang="en">ATP TOUR: Live Racing - Live racing from Newbury</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: Live Racing - Live racing from Newbury.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719210000 +0800" stop="20250719231000 +0800" channel="MUTV_Live_TV">
+    <title lang="en">Friendlies Clubs: Manchester United vs Leeds</title>
+    <icon src="https://static.quickgrow.net//football/leagues/667.png"/>
+    <desc lang="en">Manchester United vs Leeds in Friendlies Clubs.
+ Round: Club Friendlies 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250719210000 +0800" stop="20250719231000 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix Sprint - Automotodrom Brno</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix Sprint - Automotodrom Brno.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720020000 +0800" stop="20250720041000 +0800" channel="Sky_Sports_Main_Event">
+    <title lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool</title>
+    <icon src="https://static.quickgrow.net/public/images/xLm8xrkctPccHzPF6h5BqDAkyqc6KOYRhn03PAMy.gif"/>
+    <desc lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720050000 +0800" stop="20250720071000 +0800" channel="Sky_Sports_Golf_Live_TV">
+    <title lang="en">US PGA Tour: Barracuda Championship - Old Greenwood</title>
+    <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png"/>
+    <desc lang="en">US PGA Tour: Barracuda Championship - Old Greenwood.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720053000 +0800" stop="20250720213000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: ATP Tour 250 Bastad</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: ATP Tour 250 Bastad.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720110000 +0800" stop="20250720150000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: Abierto Mexicano Los Cabos - Day 4</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: Abierto Mexicano Los Cabos - Day 4.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720143000 +0800" stop="20250720164000 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix MotoGP Northern Talent Cup - Race 2</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix MotoGP Northern Talent Cup - Race 2.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720150000 +0800" stop="20250720200000 +0800" channel="Sky_Sports_Golf_Live_TV">
+    <title lang="en">The Open Championship: The Open Championship - Dunluce Course</title>
+    <icon src="https://static.quickgrow.net/public/images/QJ6Y0mpFaKPyOIs95fNU8YQAAOmcYUrLQI09lSEE.avif"/>
+    <desc lang="en">The Open Championship: The Open Championship - Dunluce Course.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720170000 +0800" stop="20250720181500 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix Moto3 Race - Automotodrom Brno</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix Moto3 Race - Automotodrom Brno.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720181500 +0800" stop="20250720202500 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix Moto2 Race - Automotodrom Brno</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix Moto2 Race - Automotodrom Brno.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720193000 +0800" stop="20250721003000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: Tour de France Stage 15 - Muret to Carcassonne</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: Tour de France Stage 15 - Muret to Carcassonne.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720200000 +0800" stop="20250720221000 +0800" channel="TNT_Sports_2">
+    <title lang="en">MotoGP: MotoGP Czech Republic Grand Prix MotoGP Race - Automotodrom Brno</title>
+    <icon src="https://static.quickgrow.net/public/images/6KmXYo3QhUjUi37NIgtLu7aiFLfku9M1ajp2fP6v.gif"/>
+    <desc lang="en">MotoGP: MotoGP Czech Republic Grand Prix MotoGP Race - Automotodrom Brno.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250720210000 +0800" stop="20250721003000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">UK Race Meeting: Raceday Live racing from around the UK</title>
+    <icon src="https://static.quickgrow.net/public/images/qil7K68wI8ePQuaESTeuXRFWBNc9ilOMjbOtiBOB.gif"/>
+    <desc lang="en">UK Race Meeting: Raceday Live racing from around the UK.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721003000 +0800" stop="20250721043000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: The ATP Croatia Open - Day 1</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: The ATP Croatia Open - Day 1.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721020000 +0800" stop="20250721041000 +0800" channel="Sky_Sports_Main_Event">
+    <title lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool</title>
+    <icon src="https://static.quickgrow.net/public/images/xLm8xrkctPccHzPF6h5BqDAkyqc6KOYRhn03PAMy.gif"/>
+    <desc lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721040000 +0800" stop="20250721061000 +0800" channel="Sky_Sports_Golf_Live_TV">
+    <title lang="en">US PGA Tour: Barracuda Championship - Old Greenwood</title>
+    <icon src="https://raw.githubusercontent.com/syfqsamvpn/iptv/main/samflix/samflix.png"/>
+    <desc lang="en">US PGA Tour: Barracuda Championship - Old Greenwood.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721180000 +0800" stop="20250721220000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: ATP Tour 250 Kitzbuhel</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: ATP Tour 250 Kitzbuhel.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721200000 +0800" stop="20250722000000 +0800" channel="Sky_Sports_Racing_Live_TV">
+    <title lang="en">ATP TOUR: Raceday Live racing from around the UK</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: Raceday Live racing from around the UK.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250721220000 +0800" stop="20250722001000 +0800" channel="TNT_Sports_1">
+    <title lang="en">UCI World Tour: The Clasica Terres del Ebre from Spain</title>
+    <icon src="https://static.quickgrow.net/public/images/fX5gD449UM0dP61usFjcAQGtlYNaYVRHlWFdNMJf.png"/>
+    <desc lang="en">UCI World Tour: The Clasica Terres del Ebre from Spain.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250722020000 +0800" stop="20250722041000 +0800" channel="Sky_Sports_Main_Event">
+    <title lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool</title>
+    <icon src="https://static.quickgrow.net/public/images/xLm8xrkctPccHzPF6h5BqDAkyqc6KOYRhn03PAMy.gif"/>
+    <desc lang="en">PDC Darts: World Matchplay 4x First Round Matches - Winter Gardens, Blackpool.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20250722060000 +0800" stop="20250722100000 +0800" channel="Sky_Sports_Tennis">
+    <title lang="en">ATP TOUR: The Washington Open</title>
+    <icon src="https://static.quickgrow.net/public/images/f1iXKvmL68VzzpgQGejTHMfpuFtsVWjxVjT7JUbV.jpg"/>
+    <desc lang="en">ATP TOUR: The Washington Open.
+</desc>
+    <category lang="en">Sport</category>
+  </programme>
+</tv>
